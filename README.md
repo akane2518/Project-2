@@ -1,11 +1,11 @@
-# Project-2:  Health Nutrition and population statistics for 14 governments at random, and applying both classification clustering and machine learning techniques to predict life expectancy and GDP growth by government. 
+# Project-2: Health Nutrition and population statistics for 14 governments at random, and applying both classification clustering and machine learning techniques to predict life expectancy and GDP growth by government. 
 
-The three indicators used are: 
-    - Life expectancy
-    - GDP expandature ratio on health
-    - Basic sanitary access
+Three indicators used are: 
+    1. Life expectancy
+    2. GDP expandature ratio on health
+    3. Basic sanitary access
    
-   Method 1: apply clusterting for classification and Logistic Regeression to predict future GDP expendure on health to improve life expectancy
+    Method 1: apply clusterting for classification and Logistic Regeression to predict future GDP expendure on health to improve life expectancy
         Import the data 
         Prepare the data
         Cluster the countries by life expectancy using K-means
