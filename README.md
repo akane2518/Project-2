@@ -1,4 +1,4 @@
-# Project-2  Health Nutrition and population statistics for 14 governments at random, and applying both classification clustering and machine learning techniques to predict life expectancy and GDP growth by government. 
+# Project-2:  Health Nutrition and population statistics for 14 governments at random, and applying both classification clustering and machine learning techniques to predict life expectancy and GDP growth by government. 
 
 The three indicators used are: 
     - Life expectancy
