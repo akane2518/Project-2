@@ -5,7 +5,7 @@ Three indicators used are:
     - GDP expandature ratio on health
     - Basic sanitary access
    
-   Method 1: apply to predict future GDP expendure on health to improve life expectancy
+   Method 1: apply clusterting for classification and Logistic Regeression to predict future GDP expendure on health to improve life expectancy
         Import the data 
         Prepare the data
         Cluster the countries by life expectancy using K-means
