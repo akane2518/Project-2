@@ -3,9 +3,10 @@
 Three indicators used are: 
     1. Life expectancy
     2. GDP expandature ratio on health
-    3. Basic sanitary access
+    3. Basic sanitary access;
    
-    Method 1: apply clusterting for classification and Logistic Regeression to predict future GDP expendure on health to improve life expectancy
+    Method 1: apply clusterting for classification and Logistic Regeression to predict future GDP expendure on health to 
+    improve life expectancy:
         Import the data 
         Prepare the data
         Cluster the countries by life expectancy using K-means
@@ -15,9 +16,11 @@ Three indicators used are:
             - Create a Logistic Regression Model with original Data
             - Predict a Logistic Regression Model with Resample Training data
             - Calculate the accuracy of the model
-            - Generate a confusion matrix and classification report.
+            - Generate a confusion matrix and classification report;
         
-    Method 2: Apply prophet or neural networks to predict future GDP expendure on health to improve life expectancy
+    Method 2: Apply prophet or neural networks to predict future GDP expendure on health to improve life expectancy:
         - Prepare data for use on a neural network model
         - Evaluate a classification model using neural network
-        - Optimize the neural network model
+        - Optimize the neural network model;
+
+    Build a Bot for data inquiries.
