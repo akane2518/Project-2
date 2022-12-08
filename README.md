@@ -10,4 +10,4 @@ Apply clustering for classification and Logistic Regression to predict future GD
 		- Calculate the accuracy of the model 
 		- Generate a confusion matrix and classification report.
 
-# Please refer to presentation ppt (presentation.pptx & Project 2 - presentation Machine Learning Models - Multiple Linear Regression.pptx)
+# Please refer to presentation (presentation.pptx & Project 2 - presentation Machine Learning Models - Multiple Linear Regression.pptx) for project 2 detail.
